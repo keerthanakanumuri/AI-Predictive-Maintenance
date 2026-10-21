@@ -97,17 +97,6 @@ Your CSV must include these columns:
 - No labeled ground truth is available, so accuracy/recall cannot be computed honestly.
 - The contamination parameter (0.1) is an assumption.
 
-## Publishing on GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: AI Predictive Maintenance Dashboard"
-git remote add origin https://github.com/YOUR_USERNAME/predictive-maintenance-dashboard.git
-git branch -M main
-git push -u origin main
-```
-
 ## Live Demo
 
 Try the deployed dashboard:  
@@ -118,8 +107,15 @@ https://ai-predictive-maintenance-7nxvcak8lu8435kamsvvlb.streamlit.app/
 Source code:  
 https://github.com/keerthanakanumuri/AI-Predictive-Maintenance
 
-_Add screenshots here after running the dashboard._
-
 - Overview page
+<img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/87bf34aa-80c2-4e2f-9da1-3439b27b8d44" />
+
 - Anomaly Detection charts
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/07414eae-785c-4f4f-8765-c219a7790f47" />
+
 - Alerts page
+<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/846ba016-86f8-4239-8e3a-e086975498e5" />
+
+
+
+
