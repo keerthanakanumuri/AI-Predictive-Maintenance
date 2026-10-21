@@ -108,9 +108,15 @@ git branch -M main
 git push -u origin main
 ```
 
-Create the repository on https://github.com/new first, then run the commands above.
+## Live Demo
 
-## Screenshots
+Try the deployed dashboard:  
+https://ai-predictive-maintenance-7nxvcak8lu8435kamsvvlb.streamlit.app/
+
+## GitHub Repository
+
+Source code:  
+https://github.com/keerthanakanumuri/AI-Predictive-Maintenance
 
 _Add screenshots here after running the dashboard._
 
